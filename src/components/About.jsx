@@ -8,7 +8,7 @@ function About() {
           infrastructures. My work blends hands-on lab builds with best-practice security controls.
         </p>
         <ul className="tag-list" aria-label="Core capabilities">
-          <li>Cisco L2 configuration</li>
+          <li>L2 configuration</li>
           <li>pfSense firewall</li>
           <li>VLANs</li>
           <li>Routing &amp; Switching</li>
